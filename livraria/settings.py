@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-5j9#f543heen64ge7i%2dg++(t2*kz(iar7+j3o^9afuegmcsa
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['livraria-curso-eduardo-django.herokuapp.com']
+ALLOWED_HOSTS = ['livraria-curso-eduardo-django.herokuapp.com', '*']
 
 
 # Application definition
